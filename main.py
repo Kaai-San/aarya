@@ -21,7 +21,7 @@ VICE_PRINCIPAL = "Smitha S Nair"
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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"
+    api_key=""
 )
 
 # =====================================
